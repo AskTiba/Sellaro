@@ -6,8 +6,8 @@ import ViewImageScreen from "./app/screens/ViewImageScreen";
 const App = () => {
   return (
     <View>
-      {/* <WelcomeScreen /> */}
-      <ViewImageScreen/>
+      <WelcomeScreen />
+      {/* <ViewImageScreen/> */}
       
       
     </View>

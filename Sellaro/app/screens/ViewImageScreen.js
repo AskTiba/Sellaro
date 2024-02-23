@@ -11,7 +11,7 @@ const ViewImageScreen = () => {
       <Image
         resizeMode="contain"
         style={styles.image}
-        source={require("../assets/cup.png")}
+        source={require("../assets/nisa.png")}
       />
       <StatusBar style="light" />
     </View>

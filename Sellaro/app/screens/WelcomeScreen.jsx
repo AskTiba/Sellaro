@@ -4,7 +4,7 @@ import React from "react";
 const WelcomeScreen = () => {
   return (
     <ImageBackground
-      source={require("../assets/cup.png")}
+      source={require("../assets/nisa.png")}
       style={styles.background}
     >
       <Text style={styles.text}>Sellaro!</Text>
