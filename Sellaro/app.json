@@ -5,15 +5,13 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./app/assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./app/assets/parrot.png",
       "resizeMode": "contain",
       "backgroundColor": "#090E1B"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
