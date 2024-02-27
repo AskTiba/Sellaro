@@ -8,8 +8,6 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { createDrawerNavigator } from "@react-navigation/drawer";
 import { createMaterialTopTabNavigator } from "@react-navigation/material-top-tabs";
 
-// import { View, Text } from "react-native";
-// import React from "react";
 import Feed from "./app/screens/tabScreens/Feed";
 import Notifications from "./app/screens/tabScreens/Notifications";
 import Settings from "./app/screens/tabScreens/Settings";
